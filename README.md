@@ -64,6 +64,8 @@
 | 👟 <a href="https://puma-ecom.vercel.app/" target="_blank">Puma E-Com</a> | Futuristic sportswear store | React · Firebase |
 | 🛡️ <a href="https://aether-shield.vercel.app/" target="_blank">Aether Shield</a> | Ultra-luxury raincoats | Next.js · Tailwind |
 | 🌸 <a href="https://aura-bloom-pi.vercel.app/" target="_blank">Aura Bloom</a> | Attar & perfume boutique | Next.js · Supabase |
+| 👀 <a href="https://19-hasan.vercel.app/" target="_blank">19-Hasan</a> | Mi-Portafolio | Next.js · Lenis Scroll |
+| 👀 <a href="https://sudo-hasan.vercel.app/" target="_blank">Sudo Hasan</a> | Mi-Portafolio | Next.js · 3d Web|
 
 </div>
 
